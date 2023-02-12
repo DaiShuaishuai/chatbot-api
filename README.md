@@ -1,0 +1,2 @@
+## BUILD
+`mvn clean package`

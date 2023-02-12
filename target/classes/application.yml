@@ -1,0 +1,6 @@
+server:
+  port: 8092
+  # 分组任务配置
+chatbot-api:
+  bot:
+    openAiKey: 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

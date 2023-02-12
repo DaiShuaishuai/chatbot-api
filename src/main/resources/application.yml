@@ -1,0 +1,6 @@
+server:
+  port: 8092
+  # 分组任务配置
+chatbot-api:
+  bot:
+    openAiKey:  ###设置openai上申请的api key
